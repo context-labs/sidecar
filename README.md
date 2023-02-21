@@ -1,4 +1,4 @@
-# langchain-embed
+# langchain-sidecar
 
 This is an empty repository that will hold a UI starterkit for building [LangChain](https://github.com/hwchase17/langchainjs) apps that be embedded on any website, similar to how [Intercom](https://www.intercom.com) can be embedded. 
 
